@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Chetan Mittal</h1>
+<h1 align="center">Hi 👋, I'm Ishika Mittal</h1>
 # 💫 About Me:
-🔭 Building CDAO<br>🌱 Currently into Blockchain & Web3 space<br>⚡ Fun fact - Bringing Decentralisation
+🔭 Startup_over_MNC<br>🌱 Currently into AI and Web3.0 space<br>⚡ Religion - Never stop Building 
 
 
 ## 🌐 Socials:
