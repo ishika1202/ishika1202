@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ishika Mittal</h1>
 # 💫 About Me:
-🔭 Startup_over_MNC<br>🌱 Currently into AI and Web3.0 space<br>⚡ Religion - Never stop Building 
+Startup_over_MNC<br>🌱 Currently into AI and Web3.0 space<br>⚡ Religion - Never stop Building 
 
 
 ## 🌐 Socials:
